@@ -1,4 +1,5 @@
 
+
 # Submission: Membangun Notes App
 
 Submission: Membangun Notes App dengan modul Belajar Fundamental Front-End Web Development dari Dicoding akan menggambarkan bagaimana aplikasi ini dibuat sebagai bagian dari kurikulum atau tugas yang harus dipenuhi dalam program pelatihan yang diselenggarakan oleh Dicoding.
@@ -6,11 +7,13 @@ Submission: Membangun Notes App dengan modul Belajar Fundamental Front-End Web D
 
 ## Fitur Utama
 
-| FITUR |  DESKRIPSI |
-| :-------- | | :-------- |
-| ` ADD NOTE `| MENAMBAH NOTE |
-| ` EDIT`      | EDIT NOTE |
-| ` DELETE`      | HAPUS NOTE |
+
+| FITUR | Description                |
+| :-------- | :------------------------- |
+| `ADD NOTE` | MENAMBAH NOTE |
+| `EDIT` | EDIT NOTE |
+| `DELETE` | HAPUS NOTE |
+
 
 
 ## Screenshots
